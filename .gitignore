@@ -1,0 +1,5 @@
+.idea
+target
+dependency-reduced-pom.xml
+dremio-arp-connector.iml
+.DS_Store
